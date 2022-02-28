@@ -1,2 +1,2 @@
 from .simplepreprocessor import SimplePreprocessor
-from .imagetoarraypreprocessor import ImageToArrayPrepro
+from .imagetoarraypreprocessor import ImageToArrayPreprocessor
