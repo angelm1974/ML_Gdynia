@@ -12,5 +12,4 @@ print('[INFO] testowanie perceptrona...')
 
 for (x,target) in zip(X,y):
     pred=p.predict(x)
-    print('[INFO] dane={}, prawda_podstawowa={}, predykcja={}'.format(x,target[0],pred))
-    
+    print('[INFO] dane={}, prawda_podstawowa={}, predykcja={}'.format(x,target[0],pred))``
